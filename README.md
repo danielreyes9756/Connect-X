@@ -1,7 +1,5 @@
 # Connect-X
 
-In Progress
-
 LeaderBoard 
   - Basic Agent
  
